@@ -1,0 +1,23 @@
+Projektbeskrining av GreenTech Solutions webbplats
+
+Greentech Solutions är ett företag som fixar hållbara energilösningar åt företag och privatpersoner. En webbplats har byggts efter deras krav. 
+Webbplatsen har utvecklads med HTML, CSS, JavaScript och PHP. Den är byggs främst för desktopanvändare.
+
+Syftet med webbplatsen är att: 
+    Informera besökare om GreenTech Solutions och deras erbjudanden
+    Visa upp företagets tjänster och expertis inom hållbar energi
+    Generera leads genom kontaktformulär och bokningsförfrågningar
+    Ge användarna relevant kunskap genom en blogg om hållbara energilösningar
+
+Startsidan har en hero-sektion med en högkvalitativ bild på solpaneler.
+En presentation av tjänsterna i en grid-layout med bilder och beskrivningar.
+Ett kontaktformulär finns längst ner för att underlätta för användare att skicka förfrågningar.
+Detaljerad information om de fyra huvudsakliga tjänsterna:
+    Solpaneler - Ren energi för hushåll och företag
+    Energirådgivning - Hjälp att optimera energianvändningen
+    Smarta energisystem -Teknologi för energieffektivitet
+    Installation & Service - professionell installation och underhåll
+Varje tjänst presenteras med bild, ikon och kort beskrivning
+
+Det finns en bloggsektion med artiklar om hållbarhet, energilösningar och branschnyheter
+Enkelt CMS via PHP och MySQL för att hantera blogginlägg
