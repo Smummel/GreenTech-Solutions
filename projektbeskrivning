@@ -21,3 +21,9 @@ Varje tjänst presenteras med bild, ikon och kort beskrivning
 
 Det finns en bloggsektion med artiklar om hållbarhet, energilösningar och branschnyheter
 Enkelt CMS via PHP och MySQL för att hantera blogginlägg
+
+Det finns vissa begränsningar för projektet
+    Ingen mobiloptimering - Webbplatsen är byggd för desktop
+    Endast svenska - Ingen flerspråksfunktion
+    Begränsad säkerhetsoptimering - Endast grundläggande åtgärder
+    Endast en prototyp - Endast grundläggande funktioner för koncepttest
