@@ -12,7 +12,7 @@
         <div id="name">GreenTech Solutions</div>
         <div id="menu">
             <div onclick="tjansterScroll()">Tjänster</div>
-            <a href="blogg.html">Blogg</a>
+            <div onclick="bloggSroll()">Blogg</div>
             <div onclick="bokaScroll()">Boka Konsultation</div>
         </div>
     </div>
@@ -41,6 +41,18 @@
             <div id="3" class="icon"><p>Smarta Energisystem</p><img src="energisystem.png" alt=""></div>
             <div id="4" class="icon"><p>Installation & Service</p><img src="installation.png" alt=""></div>
         </div>
+    </div>
+    <div id="blog">
+        <h1>Bloggsida</h1>
+        <form action="" method="POST">
+            <input type="text" id="messagebar" name="comment" placeholder="Skriv en kommentar!">
+            <input type="submit" name="btn">
+        </form>
+        <?php 
+            if(isset($_POST['btn'])){
+                echo 'kommentar: '.($_POST['comment']);
+            }
+        ?>
     </div>
     <div id="kontakt">
         <h1>Hör gjärna av dig till oss!</h1>

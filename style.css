@@ -264,3 +264,12 @@ body{
 #send:active{
     background-color: rgb(7, 189, 7);
 }
+#blog{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+#messagebar{
+    height: 100px;
+    width: 300px;
+}
